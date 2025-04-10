@@ -1082,8 +1082,8 @@ h6 {
   .section-01__sanych {
     -webkit-transform: translate(-50%, 0%);
     transform: translate(-50%, 0%);
-    width: 100%;
-    top: 0;
+    width: 180%;
+    top: 1.5rem;
     min-width: 600px;
   }
 
