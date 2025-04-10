@@ -939,11 +939,12 @@ h6 {
   .section-01__sanych {
     position: absolute;
     z-index: 4;
-    top: 10%;
+    top: 6.5rem;
     left: 50%;
     -webkit-transform: translate(-50%, 0%);
     transform: translate(-50%, 0%);
-    width: 100%;
+    width: 90%;
+    height: auto;
   }
   .section-01__cat {
     -webkit-transform: scale(-1, 1);
@@ -1080,11 +1081,8 @@ h6 {
     transform: translate(0, 33%);
   }
   .section-01__sanych {
-    -webkit-transform: translate(-50%, 0%);
-    transform: translate(-50%, 0%);
-    width: 180%;
-    top: 1.5rem;
-    min-width: 600px;
+    top: 90px;
+    width: 183%;
   }
 
   .section-02__packs {
@@ -1145,8 +1143,7 @@ h6 {
 }
 @media (max-width: 23.56125em) {
   .section-01__sanych {
-    -webkit-transform: translate(-50%, 0%);
-    transform: translate(-50%, 0%);
+    top: 64px;
   }
 }
 @media (max-width: 22.5em) {
