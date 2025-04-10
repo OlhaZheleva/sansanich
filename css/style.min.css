@@ -428,14 +428,13 @@ h6 {
   background-size: cover;
   background-position: center;
 }
-.section-02__pack-text { 
+.section-02__pack-text {
   position: absolute;
   top: 30%;
   left: 50%;
   transform: translate(-50%, 0);
   width: 58%;
 }
-
 
 .section-02__packs {
   position: absolute;
@@ -970,7 +969,7 @@ h6 {
     bottom: 50%;
     left: 30%;
   }
-  .section-02__pack-text { 
+  .section-02__pack-text {
     position: relative;
     top: 0%;
     transform: translate(-50%, 0%);
@@ -1088,8 +1087,8 @@ h6 {
   .section-02__packs {
     padding: 6.25rem 0 0;
   }
-  .section-02__pack-01, 
-  .section-02__pack-02 { 
+  .section-02__pack-01,
+  .section-02__pack-02 {
     max-height: 300px;
   }
   .section-02__pack-01 .section-02__ellipse {
@@ -1114,7 +1113,7 @@ h6 {
   .section-02__pack.pack-02 {
     right: -16%;
   }
-  .section-03 .section-wrapper { 
+  .section-03 .section-wrapper {
     background-image: url(../img/bg-02.webp);
   }
   .section-03__video {
