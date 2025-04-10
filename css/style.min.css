@@ -1084,6 +1084,7 @@ h6 {
     transform: translate(-50%, 0%);
     width: 100%;
     top: 0;
+    min-width: 600px;
   }
 
   .section-02__packs {
