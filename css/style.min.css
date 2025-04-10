@@ -939,13 +939,11 @@ h6 {
   .section-01__sanych {
     position: absolute;
     z-index: 4;
-    top: 50%;
+    top: 10%;
     left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    width: 183%;
-    height: auto;
-    max-width: 900px;
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+    width: 100%;
   }
   .section-01__cat {
     -webkit-transform: scale(-1, 1);
@@ -975,6 +973,8 @@ h6 {
     transform: translate(-50%, 0%);
     min-width: 664px;
     width: 100%;
+    margin-top: -5%;
+    margin-bottom: -5%;
   }
   .section-02__pack-01,
   .section-02__pack-02 {
@@ -1080,12 +1080,14 @@ h6 {
     transform: translate(0, 33%);
   }
   .section-01__sanych {
-    -webkit-transform: translate(-50%, -55%);
-    transform: translate(-50%, -55%);
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+    width: 100%;
+    top: 0;
   }
 
   .section-02__packs {
-    padding: 6.25rem 0 0;
+    padding: 4.5rem 0 0;
   }
   .section-02__pack-01,
   .section-02__pack-02 {
@@ -1142,8 +1144,8 @@ h6 {
 }
 @media (max-width: 23.56125em) {
   .section-01__sanych {
-    -webkit-transform: translate(-50%, -58%);
-    transform: translate(-50%, -58%);
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
   }
 }
 @media (max-width: 22.5em) {
