@@ -1143,7 +1143,9 @@ h6 {
 }
 @media (max-width: 23.56125em) {
   .section-01__sanych {
-    top: 52px;
+    top: 60px;
+    width: auto;
+    height: 75vh;
   }
 }
 @media (max-width: 22.5em) {
