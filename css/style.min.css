@@ -975,7 +975,7 @@ h6 {
     min-width: 664px;
     width: 100%;
     margin-top: -5%;
-    margin-bottom: -5%;
+    margin-bottom: -10%;
   }
   .section-02__pack-01,
   .section-02__pack-02 {
@@ -1066,7 +1066,8 @@ h6 {
       3px 2px 0 #692631, 3px 3px 0 #692631;
   }
   .logo {
-    top: 1.25rem;
+    top: 10px ;
+    width: 10.5rem ;
   }
   .section-01__cat {
     max-width: 18.75rem;
@@ -1084,9 +1085,8 @@ h6 {
     top: 90px;
     width: 183%;
   }
-
   .section-02__packs {
-    padding: 4.5rem 0 0;
+    padding: 3.5rem 0 0;
   }
   .section-02__pack-01,
   .section-02__pack-02 {
@@ -1134,8 +1134,8 @@ h6 {
 }
 @media (max-width: 23.49875em) {
   .fp-section-0 .logo {
-    top: 5px !important;
-    width: 12.5rem !important;
+    top: 10px !important;
+    width: 9.5rem !important;
   }
   .section-01__cat {
     left: -32%;
@@ -1143,7 +1143,7 @@ h6 {
 }
 @media (max-width: 23.56125em) {
   .section-01__sanych {
-    top: 64px;
+    top: 52px;
   }
 }
 @media (max-width: 22.5em) {
